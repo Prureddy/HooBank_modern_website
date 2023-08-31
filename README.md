@@ -32,7 +32,7 @@ npm install
 ```
 npm run dev
 ```
-- Open your web browser and visit http://localhost:3000 to view the HooBank website.
+- In your terminal localhost link will be provided to view the HooBank website.
 
 
 
