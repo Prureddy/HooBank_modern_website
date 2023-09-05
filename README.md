@@ -1,7 +1,6 @@
 # HooBank Modern Banking Website
 ![image](https://github.com/Prureddy/HooBank_modern_website/assets/99805816/3bc78efd-1c0e-4db9-824e-346e6e2640d8)
 
-
 ## Welcome to HooBank, a modern banking website that offers a seamless and secure banking experience. This repository contains the source code for the HooBank website developed by Pruthvi S.
 
 ## 1.Prerequisites
